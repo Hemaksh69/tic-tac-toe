@@ -1,3 +1,6 @@
+
+![Project Banner](banner.png)
+
 # 🎮 Tic Tac Toe Game in C
 
 This is a simple terminal-based Tic Tac Toe game developed in C. It allows two players to play alternately, with real-time board updates after each move.
